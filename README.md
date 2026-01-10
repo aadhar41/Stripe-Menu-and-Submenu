@@ -15,7 +15,7 @@ Below are the visual representations of the navigation flow:
 | State | Mobile | Desktop |
 | :--- | :---: | :---: |
 | **Closed** | ![Mobile Close Menu](public/screens/mobile-close.png) | ![Desktop Close Menu](public/screens/stripe-menu-close.png) |
-| **Open** | ![Mobile Open Menu](public/screens/mobile-open.png) | ![Desktop Open/Hover Menu](public/screens/stripe-menu-open.png) |
+| **Open** | ![Mobile Open Menu](public/screens/mobile-open.png) | ![Desktop Open/Hover Menu](public/screens/Stripe-Menu-open.png) |
 
 ## Getting Started
 
