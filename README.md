@@ -13,8 +13,10 @@ A high-fidelity recreation of Stripe's iconic, fluid navigation menu built with 
 
 Below are the visual representations of the navigation flow:
 
-![Desktop Menu](./public/screens/desktop-menu.png)
-![Mobile Navigation](./public/screens/mobile-nav.png)
+![Mobile Close Menu](public\screens\mobile-close.png)
+![Mobile Open Menu](public\screens\mobile-open.png)
+![Desktop Open/Hover Menu](public\screens\stripe-menu-open.png)
+![Desktop Close Menu](public\screens\stripe-menu-close.png)
 
 ## Getting Started
 
