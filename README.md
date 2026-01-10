@@ -12,10 +12,10 @@ A high-fidelity recreation of Stripe's iconic, fluid navigation menu built with 
 ## Screenshots
 
 Below are the visual representations of the navigation flow:
-![Mobile Close Menu](public/screens/mobile-close.png)
-![Mobile Open Menu](public/screens/mobile-open.png)
-![Desktop Open/Hover Menu](public/screens/stripe-menu-open.png)
-![Desktop Close Menu](public/screens/stripe-menu-close.png)
+| State | Mobile | Desktop |
+| :--- | :---: | :---: |
+| **Closed** | ![Mobile Close Menu](public/screens/mobile-close.png) | ![Desktop Close Menu](public/screens/stripe-menu-close.png) |
+| **Open** | ![Mobile Open Menu](public/screens/mobile-open.png) | ![Desktop Open/Hover Menu](public/screens/stripe-menu-open.png) |
 
 ## Getting Started
 
